@@ -35,5 +35,6 @@
 #### 3.5.7 字典
 ### 3.6 Python的if语句
 ### 3.7 循环结构
-#### 3.7.1 Python的for循环结构
-#### 3.7.2 Python的continue语句o
+  #### 3.7.1 Python的for循环结构
+  #### 3.7.2 Python的continue语句
+
